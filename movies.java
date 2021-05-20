@@ -1,6 +1,6 @@
 public  class movies {
 
-    public string first = "Interestelar";
-    public string second = "Justice League";
-    public string third = "Inception";
+    public String first = "Interestelar";
+    public String second = "Justice League";
+    public String third = "Inception";
 }
